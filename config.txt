@@ -1,0 +1,3 @@
+SELLER_API token:{}
+
+TG_BOT token:{}
